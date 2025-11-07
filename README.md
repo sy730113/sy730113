@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubham kumar</h1>
-<h3 align="center">A passionate full-stack and web 3.0 developer from India.</h3>
+<h3 align="center">A passionate full-stack developer from India.</h3>
 <img align="right" alt="coding" width="400px" src="https://th.bing.com/th/id/OIP.KWHy2rVMCL0en0nTVZjwcwHaFj?w=259&h=194&c=7&r=0&o=5&dpr=1.5&pid=1.7">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sy730113&label=Profile%20views&color=0e75b6&style=flat" alt="sy730113" /> </p>
 
-- 🌱 I’m currently learning **web 3.0 on Dapps.**
 
-- 💬 Ask me about **react,express,ejs,mongoDB,SQL**
+
+- 💬 Web Technologies **React Js,express Js,ejs,mongoDB,SQL**
 
 - 📫 How to reach me **sy730113@gmail.com**
 
